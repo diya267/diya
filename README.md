@@ -1,2 +1,0 @@
-# diya
-just a respository
